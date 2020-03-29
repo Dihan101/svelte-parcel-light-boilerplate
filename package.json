@@ -1,0 +1,30 @@
+{
+  "name": "svelte-parcel-light-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a simple boilerplate using svelte framework, parcel and babel support. This repository is aim to use in creating a simple and fast web app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html --no-source-maps",
+    "build": "parcel build src/index.html --no-source-maps --no-hash",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dihan101/svelte-parcel-light-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dihan101/svelte-parcel-light-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Dihan101/svelte-parcel-light-boilerplate#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-transform-runtime": "^7.9.0",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-svelte": "^4.0.6",
+    "parcel-plugin-sw-precache": "^1.1.1",
+    "svelte": "^3.20.1"
+  }
+}
