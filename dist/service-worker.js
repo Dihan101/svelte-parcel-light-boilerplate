@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/index.html","361b9d5eba977dc50ef5b6b4a296bc6e"],["/service-worker.js","cf2f2aaef20f15f59de5c1df153ac902"],["/src.e31bb0bc.css","0029a617f994665fa8172b68ba6d0838"],["/src.e31bb0bc.js","b2c298b7b5f44c819023104340345958"]];
+var precacheConfig = [["/index.html","361b9d5eba977dc50ef5b6b4a296bc6e"],["/service-worker.js","2b41b8898db6c0e515fe6ab5cbe93830"],["/src.e31bb0bc.css","0029a617f994665fa8172b68ba6d0838"],["/src.e31bb0bc.js","acae34d0b9ce75ceec806857f9d70d51"]];
 var cacheName = 'sw-precache-v3-svelte-parcel-light-boilerplate-' + (self.registration ? self.registration.scope : '');
 
 
